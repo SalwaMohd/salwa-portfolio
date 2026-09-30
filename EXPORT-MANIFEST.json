@@ -1,0 +1,687 @@
+{
+  "published_source_commit": "875fce0fa817ce60d68dce0c6ff10793f375a729",
+  "website_files": 136,
+  "website_bytes": 69182792,
+  "files": [
+    {
+      "path": "dist/acupoint-case.html",
+      "bytes": 7306,
+      "sha256": "9e190da342cc014a5821e5a8b98b4afd8b2d17e635c237c64b7ee5dd7aa55238"
+    },
+    {
+      "path": "dist/assets/acupoint-case/aftercare.webp",
+      "bytes": 52062,
+      "sha256": "938fd4799b17ccdafd286b82bc195d9973ed5f09009a33e40586e05917a4e5b1"
+    },
+    {
+      "path": "dist/assets/acupoint-case/article.webp",
+      "bytes": 57666,
+      "sha256": "c792d733cdce67f960008a7f567c9ce775f7f70460a71e58503525a3c1212a2d"
+    },
+    {
+      "path": "dist/assets/acupoint-case/certificate.webp",
+      "bytes": 122302,
+      "sha256": "ea5b6097b21f08dcb4eccce8150b43386d3d3b95f4c37ef25198b6f5a9fb9750"
+    },
+    {
+      "path": "dist/assets/acupoint-case/checkin.webp",
+      "bytes": 25284,
+      "sha256": "272f6c2a0d6964b183d816ac8472a82a25e9cb2b44560dbff8ff91a58b080935"
+    },
+    {
+      "path": "dist/assets/acupoint-case/exhibition.webp",
+      "bytes": 185648,
+      "sha256": "5d0848b75aa17fd7a30ee4ec35873f7f9743dce45ab171de988063d2b9c8fc5c"
+    },
+    {
+      "path": "dist/assets/acupoint-case/feedback.webp",
+      "bytes": 23582,
+      "sha256": "bccf1636341b16ba85b651f06388a1bdcc2810383f60496970d5f7663b5d7cf8"
+    },
+    {
+      "path": "dist/assets/acupoint-case/hero.webp",
+      "bytes": 96686,
+      "sha256": "09a48958f156fce7e62b5a76ac16fab8af287c4ef9ff12c200ad2ebfe5b02b9b"
+    },
+    {
+      "path": "dist/assets/acupoint-case/home.webp",
+      "bytes": 60890,
+      "sha256": "c81535e3d75523af09f61c982699a0af2c57a2398516957f0ff97857d1c5131d"
+    },
+    {
+      "path": "dist/assets/acupoint-case/hospital.webp",
+      "bytes": 151660,
+      "sha256": "084f004acc270e389d559bc6f888a7d98e0868168bffde6a8db5d6d5d9127b44"
+    },
+    {
+      "path": "dist/assets/acupoint-case/review.webp",
+      "bytes": 23008,
+      "sha256": "e5911cd731ed2178f40a624a393961f608581cc24088f319ce13fd81b4a4d69f"
+    },
+    {
+      "path": "dist/assets/acupoint-case/workshop.webp",
+      "bytes": 147704,
+      "sha256": "93f0f8dc13e5e5942ca1b8390016428dc4eff4f8e270cedc6f2858ab671d49eb"
+    },
+    {
+      "path": "dist/assets/atmos-case/hero.webp",
+      "bytes": 144414,
+      "sha256": "a1d75e518d6034540263b4dfbf0ec74096b79cf0b9f0b1e6fa95f0c3869dd2db"
+    },
+    {
+      "path": "dist/assets/atmos-case/presentation.pdf",
+      "bytes": 6808586,
+      "sha256": "9a615fac1e6e7c550db149d37948938d8dcbca297da44e220d77c20e987fa7b0"
+    },
+    {
+      "path": "dist/assets/atmos-case/version2.webp",
+      "bytes": 112824,
+      "sha256": "a6d4c725388dd06d535085b9718b0049defff4336c4e73c148dd71701d8f3cb6"
+    },
+    {
+      "path": "dist/assets/atmos-case/version3.webp",
+      "bytes": 79318,
+      "sha256": "4677b5b368cc3913ae555af2ba4251e2e819f3cfeeb1bbe0af3d5f54e035a4fc"
+    },
+    {
+      "path": "dist/assets/atmos-case/website.webp",
+      "bytes": 1645488,
+      "sha256": "61f662c75cafa68b5aa6ff8654625fec790796d8727037f3c8d96eb058ced770"
+    },
+    {
+      "path": "dist/assets/atmos-hero.webp",
+      "bytes": 903144,
+      "sha256": "d8a1331dc8c4183d6a508639c2ad85abe471d4ff01df914061607a8f87821a06"
+    },
+    {
+      "path": "dist/assets/atmos-news.webp",
+      "bytes": 781052,
+      "sha256": "6c443f888ce69dbff83927bc3f8c5773b6dbf7949c4ba5cc120c7a6327dff203"
+    },
+    {
+      "path": "dist/assets/audio-episode.webp",
+      "bytes": 470968,
+      "sha256": "eae2cde87d5a0a9c484f4de54d781c4811bf804024d0ae0d24ddb9e1e5c6636c"
+    },
+    {
+      "path": "dist/assets/audio-hero.webp",
+      "bytes": 903288,
+      "sha256": "a363f584683cc179079810f66e37b19d6434df22d23a4aae9318a072d1b9eb69"
+    },
+    {
+      "path": "dist/assets/audio-presentation.pdf",
+      "bytes": 3910727,
+      "sha256": "64f203d8d05757e85b2ec2212704c4f877e2560add510d67a3ca736768a025b0"
+    },
+    {
+      "path": "dist/assets/audio-process.webp",
+      "bytes": 85968,
+      "sha256": "a17622068ffba27f5839b457bab6fc59b31c8faa1bf29b5fd9182d5411179e0f"
+    },
+    {
+      "path": "dist/assets/audio-research.webp",
+      "bytes": 65548,
+      "sha256": "f56f1804e3e05f0ecdd48a39bedae98b67e335bcce155647eab88c038d4cdf49"
+    },
+    {
+      "path": "dist/assets/bloome-hero.webp",
+      "bytes": 56500,
+      "sha256": "e251efd4084cc7a6eae7a69b0991040b04bce17c90d3244accdadc1a7329afbf"
+    },
+    {
+      "path": "dist/assets/bloome-label.webp",
+      "bytes": 19280,
+      "sha256": "8ee80942e2ecf5b246c2ae357acfe1238bd12861c356c62d04b607628d5fbc4d"
+    },
+    {
+      "path": "dist/assets/bloome-open.webp",
+      "bytes": 49628,
+      "sha256": "6b57def0f217ca0d994879399f61e23520688c8629f7d1b82bd30e662e36f690"
+    },
+    {
+      "path": "dist/assets/bloome-process.webp",
+      "bytes": 51876,
+      "sha256": "07ba424ab85846f96dc7c80cf225e14b0e45b87d59578d5dbe37ea82377166bb"
+    },
+    {
+      "path": "dist/assets/centaur-final.webp",
+      "bytes": 10070,
+      "sha256": "75c71f87273abbe451a67ec2ceb2a5d120889438a92352c53399d48711be41af"
+    },
+    {
+      "path": "dist/assets/centaur-hero.webp",
+      "bytes": 143464,
+      "sha256": "24479e820a4624bba98208705ad055fe6e6015c8c0b489b945c7899cb4db135c"
+    },
+    {
+      "path": "dist/assets/centaur-presentation.pdf",
+      "bytes": 3558944,
+      "sha256": "f557957b52ea90d185bb52f0907e30f980a6c93847d96c0131f4da32998b997c"
+    },
+    {
+      "path": "dist/assets/golem-final.webp",
+      "bytes": 112150,
+      "sha256": "21c17dd9b4958dff8dbb502d4c29bb6b5ec49f8a0f856b809cf63301c4442fe5"
+    },
+    {
+      "path": "dist/assets/golem-hero.webp",
+      "bytes": 93542,
+      "sha256": "61bb40106c352a29bc02562d410a58b15e95233c0339ee96896b86c01334f396"
+    },
+    {
+      "path": "dist/assets/golem-presentation.pdf",
+      "bytes": 1987919,
+      "sha256": "68d7c2597010f96a95a91b4df0857c40ddd55149d21a3956fc2e750700c2ae30"
+    },
+    {
+      "path": "dist/assets/golem-process.webp",
+      "bytes": 100352,
+      "sha256": "1ca16862580b37d448fa5ac486379583b22fbaa38a685c05fcbcca556f9bf9e2"
+    },
+    {
+      "path": "dist/assets/golem-research.webp",
+      "bytes": 126206,
+      "sha256": "8b4ab6629f9273a1876bda4a2839cd0d267a78b4498cbdd5ba92c8149adea447"
+    },
+    {
+      "path": "dist/assets/handic-brand.webp",
+      "bytes": 24582,
+      "sha256": "08c825c64eb539994ecd728c7ba234c41c5b70f9de6d77186cc8e75f1f1c01f1"
+    },
+    {
+      "path": "dist/assets/handic-case/accessibility.webp",
+      "bytes": 77820,
+      "sha256": "cfe8f089112ab7f189f5e3443e812667a710f9d84f1e073b00a6b36d7057ec62"
+    },
+    {
+      "path": "dist/assets/handic-case/discovery.webp",
+      "bytes": 66966,
+      "sha256": "7f6eb755a5f6ef0cdbb276fac7df3425e7a20d05bc4ccec0c88dbc7c46d6b1a3"
+    },
+    {
+      "path": "dist/assets/handic-case/event.webp",
+      "bytes": 74618,
+      "sha256": "1f2fd8fb31b5f9f97e255b8d013fcea9f05fdfab7775867fcad3d85279453330"
+    },
+    {
+      "path": "dist/assets/handic-case/hero.webp",
+      "bytes": 214786,
+      "sha256": "f89aae8b9642ee243e490c9672af3c12e31fc699a2d7efc52158de5b48cd4986"
+    },
+    {
+      "path": "dist/assets/handic-case/landing.webp",
+      "bytes": 778530,
+      "sha256": "45f5b7a2d63dac11060c3d44e0033e567f887b1871f234ed4f31894bdfff5767"
+    },
+    {
+      "path": "dist/assets/handic-case/persona.webp",
+      "bytes": 172174,
+      "sha256": "17184107398960ca0106da6604a8fbf423dc7eb0882d98ba75d2d6b604b6c508"
+    },
+    {
+      "path": "dist/assets/handic-case/project-presentation.pdf",
+      "bytes": 1320679,
+      "sha256": "3d2127c61d53dd7b79ed539b19e5b213551c8eca4175f924e06087ddc3686049"
+    },
+    {
+      "path": "dist/assets/handic-case/seats.webp",
+      "bytes": 33666,
+      "sha256": "9bffdceb7142ecc35f81e96c3512e313cee85c4e5bbdde255c4c3b0358ca2177"
+    },
+    {
+      "path": "dist/assets/handic-case/website.webp",
+      "bytes": 73808,
+      "sha256": "023d0f7ee76dbf3307b61a67858048640d5c350a7990a26ee7041da8ec208b0f"
+    },
+    {
+      "path": "dist/assets/handic-case/wire-discovery.webp",
+      "bytes": 2548,
+      "sha256": "3943eb731a08a6f57d1e7ee5ac5a9412791ca71bf6fe3d83e979b9c07103b884"
+    },
+    {
+      "path": "dist/assets/handic-case/wire-listing.webp",
+      "bytes": 1832,
+      "sha256": "7ce18fc1c169f37a7da12348cb9bd840c5455346d8621af81376b206da60900b"
+    },
+    {
+      "path": "dist/assets/handic-hero.webp",
+      "bytes": 75408,
+      "sha256": "d076fadbfc3cc0233df264e217e4f60f89a5dfb0c533a2a4c79a463068f032a7"
+    },
+    {
+      "path": "dist/assets/handic-presentation.pdf",
+      "bytes": 1320679,
+      "sha256": "3d2127c61d53dd7b79ed539b19e5b213551c8eca4175f924e06087ddc3686049"
+    },
+    {
+      "path": "dist/assets/handic-process.webp",
+      "bytes": 29206,
+      "sha256": "8889d33290f8b252b662fcd77e0d9aa689750939b0aacd13de8bd3e5edc8d746"
+    },
+    {
+      "path": "dist/assets/handic-research.webp",
+      "bytes": 100134,
+      "sha256": "4008c1eba705af7c473458f54b7b37cd1677a7671497f33263788a99ff703354"
+    },
+    {
+      "path": "dist/assets/handic-seats.webp",
+      "bytes": 46644,
+      "sha256": "59fec9932803b8a84c4800b695e9a293b1c1357982961bef428616813423d1fc"
+    },
+    {
+      "path": "dist/assets/home-atmos-thumbnail.png",
+      "bytes": 819771,
+      "sha256": "da4bf48f5906f6caaaf43f9fde0d7e55c49f432f5d802a27b400ff71346a5a06"
+    },
+    {
+      "path": "dist/assets/home-handic-thumbnail.png",
+      "bytes": 1628066,
+      "sha256": "82bad1141778814ddd8451ff8486207807247ccb07e12feac8b689d7c911ec9d"
+    },
+    {
+      "path": "dist/assets/home-kiwi-thumbnail.png",
+      "bytes": 972561,
+      "sha256": "2d4afcd46a0aae8f65afd043ebad8bbb02c4e7221e65b2db03e9c08e8c1a312e"
+    },
+    {
+      "path": "dist/assets/home-org-thumbnail.png",
+      "bytes": 620533,
+      "sha256": "29029cfb84b51cc884cb35f25bdd40bba25043f8691cc6268d3ef63d4decddc4"
+    },
+    {
+      "path": "dist/assets/home-sanda-thumbnail.png",
+      "bytes": 1094413,
+      "sha256": "850a7c12f368037c7d491c7b545b6ab305c232f06a0a04aa44a45b07a01d6765"
+    },
+    {
+      "path": "dist/assets/home-scheid-thumbnail.png",
+      "bytes": 591295,
+      "sha256": "e386d7bb0ea982647aa0dfee6d48719e042cb0ddc6f37e979a7941c0578454ae"
+    },
+    {
+      "path": "dist/assets/kiwi-case/buildings.webp",
+      "bytes": 22992,
+      "sha256": "b2de1a1f4a7f3736a228c45ed9631bda10d3758bbfba007b83046cb97fc2949e"
+    },
+    {
+      "path": "dist/assets/kiwi-case/keys.webp",
+      "bytes": 16390,
+      "sha256": "6bf161154baa79421a2f7df38f23ca0ab853b0d558d1ac666d10796ded91c44e"
+    },
+    {
+      "path": "dist/assets/kiwi-case/presentation.pdf",
+      "bytes": 1004297,
+      "sha256": "0153a312ea216b5b63d8bb8f50b7f6b7d0ab81c7a8bf22994a3d33e35a6a2d02"
+    },
+    {
+      "path": "dist/assets/kiwi-case/request.webp",
+      "bytes": 12946,
+      "sha256": "674504e31099b40ae776f489ba820db5313c29054c5fde3a2972109600f48f51"
+    },
+    {
+      "path": "dist/assets/kiwi-case/unlock.webp",
+      "bytes": 15236,
+      "sha256": "b06d326cd6101323ae23350f8952f52b9ddf651f6b6ca175064d4d072a16e4f3"
+    },
+    {
+      "path": "dist/assets/kiwi-case/waiting.webp",
+      "bytes": 8866,
+      "sha256": "876b0a39297f79061d090c043a0fe91cd9457313a71dcd9c4b88e13b27663c37"
+    },
+    {
+      "path": "dist/assets/kiwi-case/wire-floors.webp",
+      "bytes": 7278,
+      "sha256": "82d2c377774a0d241efa809ff30f8f55b5b4cb06c8a0a69612fdc6de9eb999a7"
+    },
+    {
+      "path": "dist/assets/kiwi-case/wire-request.webp",
+      "bytes": 3538,
+      "sha256": "41c6a7bc698d67f291c65ee3a79ecb84800b69bb35afbc9cc29f65afa122e8e1"
+    },
+    {
+      "path": "dist/assets/kiwi-case/wire-unlock.webp",
+      "bytes": 6282,
+      "sha256": "835809532b4825ae60551734366eeb90b6c8c960ed71fcebb2be4d17c7256690"
+    },
+    {
+      "path": "dist/assets/kiwi-main.png",
+      "bytes": 41404,
+      "sha256": "37a8137a92a99feda678967542c66904989262840fd464202488e1e2700f1533"
+    },
+    {
+      "path": "dist/assets/kiwi-presentation.pdf",
+      "bytes": 1016664,
+      "sha256": "a61b90bd86ec0696f1656c748d9c0d96d5d1464677fc2d31dc3850c8dceb16b4"
+    },
+    {
+      "path": "dist/assets/kiwi-process.webp",
+      "bytes": 37360,
+      "sha256": "ef02b67da2ccf2c28d3bcdf454459c9bfbf8bb793450c1f0982bf3b28c7484cb"
+    },
+    {
+      "path": "dist/assets/kiwi-research.webp",
+      "bytes": 44456,
+      "sha256": "731de0248e8212d1895bde7ea9f909d47b1b2554d03b1562d837d70146a4415c"
+    },
+    {
+      "path": "dist/assets/kiwi-unlock.png",
+      "bytes": 36566,
+      "sha256": "fe01ec28e2ca62981399c1f4fe5567616423591e10abf251af7d97fde74bc920"
+    },
+    {
+      "path": "dist/assets/org-case/context.webp",
+      "bytes": 168020,
+      "sha256": "9c9a81111623e22314185614daa74c3c4edd59ed40d73d1e28bf9dafe135fa60"
+    },
+    {
+      "path": "dist/assets/org-case/hero.webp",
+      "bytes": 77676,
+      "sha256": "58cdc3aeb4f16dff36a17b036075b9186066b175d845edebc1d7f78870f12cd8"
+    },
+    {
+      "path": "dist/assets/org-case/moodboard-updated.webp",
+      "bytes": 1038254,
+      "sha256": "ad6bfb70fb5c1b6767c3106d2f05e8288585e6f42c2f8c23fd435b8ed0e631b8"
+    },
+    {
+      "path": "dist/assets/org-case/moodboard.webp",
+      "bytes": 426346,
+      "sha256": "91881dbc294247a7963c1d19ecc84e4a82e7fcfe828e0b6af80c10e517546201"
+    },
+    {
+      "path": "dist/assets/org-case/presentation.pdf",
+      "bytes": 4906935,
+      "sha256": "5ea10bf51bc87fe8adb33758330916a2ca46900d0b4e1864d94b674f6bf4d6e2"
+    },
+    {
+      "path": "dist/assets/org-case/website.webp",
+      "bytes": 562938,
+      "sha256": "b11cec1fe2883d5b735f8c48a9419a618285ffb9bc0b15ca60901b3154e3fc1a"
+    },
+    {
+      "path": "dist/assets/org-final.pdf",
+      "bytes": 1638712,
+      "sha256": "db63a9bec34f5bd018dd1d43d98617f1c0b90d1c90504a779d8b4ebd4a81a85f"
+    },
+    {
+      "path": "dist/assets/org-final.webp",
+      "bytes": 436820,
+      "sha256": "37b086b6808f32e21a8f814fb603df722ef81c6a6585f0a5c4beddcc68e1f03f"
+    },
+    {
+      "path": "dist/assets/org-hero.webp",
+      "bytes": 134114,
+      "sha256": "c09ebaee3aa23cabfed3ca12b0f1b16c061ba694f7a58234b39c888444eda827"
+    },
+    {
+      "path": "dist/assets/org-presentation.pdf",
+      "bytes": 4365637,
+      "sha256": "7625f1e2bea0270780a94e0ef7e8d2bfc0775189670ba5cd766353b73b996a1a"
+    },
+    {
+      "path": "dist/assets/org-process.webp",
+      "bytes": 231120,
+      "sha256": "c9222db8554a0de7c0ea82c7bd8a0f200f4d8788151b41e776f5cce66204296c"
+    },
+    {
+      "path": "dist/assets/org-research.webp",
+      "bytes": 192828,
+      "sha256": "58e0fb379e72d8367c529ca6fd5c88631bf5db466cb9b41407a0cb58f36f589a"
+    },
+    {
+      "path": "dist/assets/salwa-mustafa-cv.pdf",
+      "bytes": 4279321,
+      "sha256": "aff4a868ed23efba944be128422ed586be83781dd216bde98d2ea6274100c1d1"
+    },
+    {
+      "path": "dist/assets/sanda-article.png",
+      "bytes": 55359,
+      "sha256": "7bd6a74ee45bb4cb2f66647e2cece701c548683386088b006d9760c521a25f88"
+    },
+    {
+      "path": "dist/assets/sanda-video.png",
+      "bytes": 44050,
+      "sha256": "bd4ca0e4e27c008ef8a0791da6fa404173f62ca9f2df4865b8d2013b7440cc8a"
+    },
+    {
+      "path": "dist/assets/scheid-case/email.webp",
+      "bytes": 122832,
+      "sha256": "d5558ecea97d4c8f4b36bc3e8028fbbce8513cb30a68577e14036a83b45650f6"
+    },
+    {
+      "path": "dist/assets/scheid-case/facebook.webp",
+      "bytes": 186956,
+      "sha256": "fbb99caa6ff5daa09930e8ce091d2a3cc4d2c2ebaef54e4584931a473424383b"
+    },
+    {
+      "path": "dist/assets/scheid-case/hero.webp",
+      "bytes": 69882,
+      "sha256": "d5ac2b12681868522f881854d2f5eda457817fb7badaa717581b5f9dcfd745fd"
+    },
+    {
+      "path": "dist/assets/scheid-case/instagram.webp",
+      "bytes": 231358,
+      "sha256": "0f57a171bc4cbfae838c019bcaf175b706e909f069ab9509879d55a0730bc3ea"
+    },
+    {
+      "path": "dist/assets/scheid-case/presentation.pdf",
+      "bytes": 2699128,
+      "sha256": "d5318e28c917094a6e251e8fc724333fbc6831f165f6021a1623feafb80478b2"
+    },
+    {
+      "path": "dist/assets/scheid-case/website.webp",
+      "bytes": 1010772,
+      "sha256": "fd74d6718e16f6e4604d1e599cee4f54d9230594c92575afa152e3367de70711"
+    },
+    {
+      "path": "dist/assets/scheid-email.webp",
+      "bytes": 62568,
+      "sha256": "2d3d5a8740c91aa17a3f5cef2d84aa1527de165b68bad42f6d53ec37f48a4fee"
+    },
+    {
+      "path": "dist/assets/scheid-hero.webp",
+      "bytes": 895160,
+      "sha256": "2af029b684e26cb4875d8583bbf35b54f9c6266b46ba46ef2d3bb6121df58961"
+    },
+    {
+      "path": "dist/assets/scheid-presentation.pdf",
+      "bytes": 2436622,
+      "sha256": "21e97addae505e0acc5e02a4959f2600e4082f55c27ed3a98626b6724ca1a543"
+    },
+    {
+      "path": "dist/assets/scheid-process.webp",
+      "bytes": 51636,
+      "sha256": "1c063260e98e92027b11b56db32771bb8b9a324250be473314dbef6e20d2b04f"
+    },
+    {
+      "path": "dist/assets/scheid-research.webp",
+      "bytes": 142674,
+      "sha256": "669e2f30acdd576c7cebf15a4ac71f0e4b07b2724b656de816080dc8508981e9"
+    },
+    {
+      "path": "dist/assets/serenity-final.webp",
+      "bytes": 296522,
+      "sha256": "1212c1b6ebca3e21a13fdfaace6997cfbef3fd8d898d6e01b413cb80ace0612c"
+    },
+    {
+      "path": "dist/assets/serenity-hero.webp",
+      "bytes": 335724,
+      "sha256": "cd0d512d282331bacafafdf5876bf3ef3af043a21e027569e5bcfbd23dae642d"
+    },
+    {
+      "path": "dist/assets/serenity-mood.webp",
+      "bytes": 256334,
+      "sha256": "cf30a1ac63de70d20070bddd4a9b4dcddbdc3baa6b55131d97f30a338d75c539"
+    },
+    {
+      "path": "dist/assets/serenity-presentation.pdf",
+      "bytes": 1779005,
+      "sha256": "495a44e471834b1d4659f8db54e1602a2b96a8897082d4ed1c71ba732e900d86"
+    },
+    {
+      "path": "dist/assets/serenity-process.webp",
+      "bytes": 41954,
+      "sha256": "7d94799dd1e6c49b9ef3bea0c40f692731e9c892a1576122275b16cbe677a850"
+    },
+    {
+      "path": "dist/assets/wild-app.webp",
+      "bytes": 63426,
+      "sha256": "da7c098f11612530ff17505b96dbb2775a58d3ea9f50e5fcdc8cbec223842893"
+    },
+    {
+      "path": "dist/assets/wild-brochure.webp",
+      "bytes": 208358,
+      "sha256": "9fcd5f308d86e3cc2b9396ea0dfd9b2b70565e711d5af20e26c294d47ea3daf5"
+    },
+    {
+      "path": "dist/assets/wild-hero.webp",
+      "bytes": 184852,
+      "sha256": "f02cc5d49a3f3ae982e6d34ac1fe62140b8852b2a562b02397c2a0d0ee8b5895"
+    },
+    {
+      "path": "dist/assets/wild-poster.webp",
+      "bytes": 137662,
+      "sha256": "10f972c0b39b5e52cb23a00f30d0fc5570aff4c6e57899c4ae469e88a2805bad"
+    },
+    {
+      "path": "dist/assets/wild-presentation.pdf",
+      "bytes": 3455521,
+      "sha256": "91ca2bfdc89512373d6a8a4304ce1fce9ec8431bb4cf3e90443c84c0cf7d82c8"
+    },
+    {
+      "path": "dist/assets/wild-process.webp",
+      "bytes": 37442,
+      "sha256": "82284a5e3080c34ce324f54be221001be19e6e3f55ae89cd9b35978b83a20f3a"
+    },
+    {
+      "path": "dist/assets/wild-research.webp",
+      "bytes": 153584,
+      "sha256": "7799dc9a9eb077b72961655fe8bb9e096d1a4a08979173109733ca56f33655b0"
+    },
+    {
+      "path": "dist/atmos-case.html",
+      "bytes": 6257,
+      "sha256": "b0143bd616220dd54ca578f9306dfb8f96855e6303208245aac0dbac043fa281"
+    },
+    {
+      "path": "dist/atmos.html",
+      "bytes": 314,
+      "sha256": "0667d90d9f99723800461f4b8b7d072c28bd3c2440f52f2b71ba782b3305a6a5"
+    },
+    {
+      "path": "dist/audio.html",
+      "bytes": 5919,
+      "sha256": "47ae771f077fc8025f505e0438ee1725efe03354a4fd01112c972b4579f18fc6"
+    },
+    {
+      "path": "dist/bloome.html",
+      "bytes": 5143,
+      "sha256": "57317faf081ff0d33ad58aca12d23f93c810028f3345424515bafe423264779f"
+    },
+    {
+      "path": "dist/case-studies.css",
+      "bytes": 4727,
+      "sha256": "a1f451121daa515658f42e6b0f5dc4e3d26cc932ab0ff541fffcc5552ade43de"
+    },
+    {
+      "path": "dist/centaur.html",
+      "bytes": 5506,
+      "sha256": "5b9ce246fa45701d5b22cfa19ae511472c8b66d15a135d98892b32b8ce3dfa2b"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 217,
+      "sha256": "3ba520d6825e4b9190c9ef4ad33de288e8b1303c3ace1b799db918b6f808928b"
+    },
+    {
+      "path": "dist/golem.html",
+      "bytes": 5384,
+      "sha256": "2d7332ddc1ec8bdb26d1b05a6ea6afa7bcf019b6a4ff52a1802453dde6e089a4"
+    },
+    {
+      "path": "dist/handic-case.css",
+      "bytes": 6935,
+      "sha256": "13aa0245b92393ec4e630a08da71947e782fbbf4372b5f6d38d8e05ce24d973d"
+    },
+    {
+      "path": "dist/handic-case.html",
+      "bytes": 6646,
+      "sha256": "76d0c3bfc07026e8eeab5aa85ed33619e15fff5b5f8ea602f4083aa5ee673026"
+    },
+    {
+      "path": "dist/handic-case.js",
+      "bytes": 4490,
+      "sha256": "58fafa37b2f121fb17fa9c45b5fd2372ef818f8391fcace63f037820082cf975"
+    },
+    {
+      "path": "dist/handic.html",
+      "bytes": 318,
+      "sha256": "6957be48cf573e3fb2fd80f63d01af499db8a1f44539afab05ea8b7db93b2623"
+    },
+    {
+      "path": "dist/home.css",
+      "bytes": 2293,
+      "sha256": "3dc8d7553b2ec421f2ed755712e89c78786c0063aa77f1f42f177b4852e29dc1"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 51283,
+      "sha256": "240866da4c5d8c37b24993d63756c7d9546a552dee74ceae7450cfd6ce26b8a2"
+    },
+    {
+      "path": "dist/kiwi-case.html",
+      "bytes": 6918,
+      "sha256": "4d6870164430031d2b9a347e3665b4998203306ca57bd569ff4f3e26b2f07bd4"
+    },
+    {
+      "path": "dist/kiwi.html",
+      "bytes": 312,
+      "sha256": "e4a856d2aedb95e0351c740baf103d59f2938325467959cbf457453f70069817"
+    },
+    {
+      "path": "dist/org-case.html",
+      "bytes": 8390,
+      "sha256": "7f2f0fab5394d48ee1f2b931ce80b3d9ce622106b5b7db401e256871d026f166"
+    },
+    {
+      "path": "dist/org.html",
+      "bytes": 312,
+      "sha256": "86b245368dad109f9d73bd8e353e3cd33b917f6c4a38f68ffea17db13a20c3ad"
+    },
+    {
+      "path": "dist/projects.json",
+      "bytes": 21928,
+      "sha256": "bd1a10ebcd2214cfe534774f44c8629351a2207d0902e1d751df116f47d90655"
+    },
+    {
+      "path": "dist/sanda.html",
+      "bytes": 318,
+      "sha256": "69c45388027bf8911830267bcc8378781d72db04c4dad30f42915f2c8c92a7f0"
+    },
+    {
+      "path": "dist/scheid-case.html",
+      "bytes": 5104,
+      "sha256": "07de8a8a0df27e4d6802f1ef24a44bb22cb292decc52cb2ba6becd036b977649"
+    },
+    {
+      "path": "dist/scheid.html",
+      "bytes": 354,
+      "sha256": "18edeffa8639ec666ed41015c2b5fb65ef4c73f013ce769c7bedc0979aaab7a2"
+    },
+    {
+      "path": "dist/serenity.html",
+      "bytes": 5384,
+      "sha256": "a6c2e61a6142d25009e8fc303fbcd004fc07fa829bde2324534d79f9d438ec1a"
+    },
+    {
+      "path": "dist/style.css",
+      "bytes": 14465,
+      "sha256": "4036bda9b926327657a37b20acea2f16061bc08a2d13e334c406d73d88a5971a"
+    },
+    {
+      "path": "dist/wild.html",
+      "bytes": 5725,
+      "sha256": "8e89c9d6cca3460fcbce51b1f486c53d73da498405c45b4a0778bee061d71326"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+/* Homepage-only adjustments. Project pages retain their original stylesheet. */
+.home .hero h1{font-size:clamp(3.25rem,6vw,5.5rem);max-width:1060px;line-height:1.08;margin-bottom:42px}
+.home .hero h1 em{white-space:normal}
+.home .hero-bottom>div{max-width:650px}
+.home .hero-bottom p{font-size:1.0625rem;line-height:1.75}
+.home .hero-top{margin-bottom:36px}
+.home .hero-rule{margin-top:60px}
+.home .project-card{display:flex;flex-direction:column}
+.home .project-image{height:auto;aspect-ratio:4/3;background:transparent;flex-shrink:0}
+.home .project-image img{height:100%;width:100%;object-fit:contain;object-position:center;padding:0}
+.home .card-top{gap:15px}
+.home .card-top h3{font-size:1.65rem;line-height:1.2}
+.home .project-card>p{min-height:0;flex:1;font-size:1rem}
+.home .card-bottom{align-items:flex-start;font-size:.875rem}
+.home .card-bottom>span{max-width:70%}
+.home .card-bottom a{white-space:nowrap}
+.home .more-work{text-align:center;border-top:1px solid #d8a9bb;margin-top:65px;padding-top:42px}
+.home .more-work h3{margin-bottom:12px}
+.home .more-work p{margin-bottom:24px}
+.home .behance-button{display:inline-flex;border:1px solid var(--berry);border-radius:100px;padding:12px 24px;color:var(--berry);font-size:.9375rem}
+.home .behance-button:hover{background:var(--berry);color:white;text-decoration:none}
+.home .about-mark p{font-size:.75rem;line-height:2.2;margin-top:18px}
+.home .about-meta{gap:30px;flex-wrap:wrap}
+.home .skills-grid h3{line-height:1.2;min-height:2.4em}
+.home .skills-grid article{display:flex;flex-direction:column}
+.home .skills-grid article>p:not(.eyebrow){flex:1}
+.home .toolbox>p{max-width:570px;line-height:1.9}
+.home .contact-intro{max-width:570px}
+.home .footer-end{justify-content:flex-end}
+@media(max-width:1000px){.home .card-bottom{flex-direction:column;gap:10px}.home .card-bottom>span{max-width:none}}
+@media(max-width:700px){.home .hero{padding-top:36px}.home .hero h1{font-size:clamp(2.55rem,8.5vw,3.7rem);margin-bottom:30px}.home .hero-bottom p{font-size:1rem}.home .hero-rule{margin-top:40px}.home .card-top h3{font-size:1.6rem}.home .project-grid{gap:40px}.home .skills-grid h3{min-height:0}.home .toolbox>p{max-width:none}.home .footer-end{align-items:flex-start}.home .nav nav{max-width:220px}.home .more-work{margin-top:45px}}

@@ -1,0 +1,460 @@
+[
+  {
+    "id": "handic",
+    "title": "Handic.app",
+    "category": "UX/UI · Accessible experiences",
+    "summary": "An event-booking concept that helps wheelchair users find accessibility information and book seats with companions.",
+    "role": "UX/UI Designer",
+    "context": "Student business concept",
+    "challenge": "For wheelchair users, buying a concert ticket can mean searching for missing accessibility details and navigating separate companion-ticket arrangements. Handic.app brings these needs into the booking journey.",
+    "goal": "Make accessibility information and companion seating easier to find before a ticket is purchased.",
+    "insight": "The project persona needs clarity about access before committing to an event. Accessibility therefore belongs in event discovery and seat selection, rather than being hidden in secondary information.",
+    "process": "The work connects a concert-inspired identity with reusable interface elements, a mobile booking flow, and a supporting landing page.",
+    "outcome": "The delivered concept includes the app interface, landing page, logo, and brand guidelines. The design prioritizes visible accessibility information and a consistent booking experience.",
+    "hero": "handic-hero.webp",
+    "research": "handic-research.webp",
+    "processimg": "handic-process.webp",
+    "final": [
+      "handic-hero.webp",
+      "handic-seats.webp",
+      "handic-brand.webp"
+    ],
+    "features": [
+      [
+        "Access before purchase",
+        "Accessibility details are part of the event-selection journey."
+      ],
+      [
+        "Companion seating",
+        "The seating concept makes space for attending together."
+      ],
+      [
+        "One visual language",
+        "The app, landing page, and identity share a concert-inspired design."
+      ]
+    ],
+    "figma": "pC6zRfEGYYvFkCmZh8uzeS",
+    "deck": "handic",
+    "team": "",
+    "period": ""
+  },
+  {
+    "id": "wild",
+    "title": "Wildpark Schorfheide",
+    "category": "UX/UI · Brand identity",
+    "summary": "A connected visitor-experience concept spanning the park website, an app, wayfinding, and print.",
+    "role": "UX/UI & Graphic Designer",
+    "context": "Human Experience Design · Free project",
+    "challenge": "A park visit revealed hard-to-see signs, an information-heavy website, and gaps between visitor touchpoints. The project explored how a clearer identity and information hierarchy could support the whole visit.",
+    "goal": "Connect planning, arrival, and discovery through a coherent visitor experience.",
+    "insight": "Transparent signs were difficult to notice. A white backing offered a practical visibility improvement without replacing the entire signage system.",
+    "process": "The exploration moved from on-site observations to a nature-inspired identity, then extended that direction across posters, brochures, a website, and a companion app.",
+    "outcome": "The final concept connects physical and digital touchpoints. The before-and-after comparison describes the intended design improvements; visitor impact would need to be tested in use.",
+    "hero": "wild-hero.webp",
+    "research": "wild-research.webp",
+    "processimg": "wild-process.webp",
+    "final": [
+      "wild-hero.webp",
+      "wild-app.webp",
+      "wild-poster.webp",
+      "wild-brochure.webp"
+    ],
+    "features": [
+      [
+        "Plan the visit",
+        "An editorial website organizes key visitor information."
+      ],
+      [
+        "Explore on site",
+        "The app concept supports navigation and discovery."
+      ],
+      [
+        "Recognize the park",
+        "A shared identity connects digital and printed materials."
+      ]
+    ],
+    "figma": "",
+    "deck": "wild",
+    "team": "",
+    "period": ""
+  },
+  {
+    "id": "org",
+    "title": "ORG Verlag",
+    "category": "UX/UI · Content strategy",
+    "summary": "A website and communication concept bringing handmade ring-book organizers to a younger audience.",
+    "role": "UX/UI Designer",
+    "context": "Academic collaboration · ORG Verlag",
+    "challenge": "ORG Verlag’s established audience was ageing. The brief asked how the brand could become relevant to younger people while preserving its craftsmanship and analogue character.",
+    "goal": "Make the value of analogue organization feel relevant to young creators and professionals seeking time away from screens.",
+    "insight": "The strategy identified two distinct motivations: creative self-expression and focused, offline work. The website direction brings product use, personalization, and craftsmanship into the story.",
+    "process": "Audience analysis informed a warm, structured moodboard and a website centred on materials, making, and everyday use. The wider group strategy also explored content and product development.",
+    "outcome": "The work delivers a contemporary website concept alongside a broader marketing plan. Its contribution is a clearer product story and a visual direction that retains the brand’s craft heritage.",
+    "hero": "org-hero.webp",
+    "research": "org-research.webp",
+    "processimg": "org-process.webp",
+    "final": [
+      "org-final.webp"
+    ],
+    "features": [
+      [
+        "Craftsmanship",
+        "The story of materials and making anchors the website."
+      ],
+      [
+        "Personalization",
+        "Product options support individual ways of organizing."
+      ],
+      [
+        "New audiences",
+        "Content addresses creators and professionals seeking analogue focus."
+      ]
+    ],
+    "figma": "owz3HVvFTXI1Ev8dcCU67E",
+    "deck": "org",
+    "team": "",
+    "period": ""
+  },
+  {
+    "id": "sanda",
+    "title": "A little clarity while waiting",
+    "category": "UX/UI · Workshop",
+    "summary": "A QR-triggered app concept with learning content for patients waiting in an acupuncture department.",
+    "role": "UX Designer",
+    "context": "Sanda University workshop · Shuguang Hospital",
+    "challenge": "The workshop explored how the waiting period could become more engaging and informative for patients. The concept uses a QR entry point and short educational content within a mobile experience.",
+    "goal": "Give waiting patients an approachable way to explore information about their visit.",
+    "insight": "The interface separates article and video formats, with visible reading or viewing times. This provides a clear basis for choosing content during a wait.",
+    "process": "The design includes dedicated article and video screens, organized around a shared navigation structure.",
+    "outcome": "The workshop produced a patient-engagement concept with article and video screens. A useful next step would be evaluating whether the format and content fit the needs of patients during a real waiting period.",
+    "hero": "sanda-video.png",
+    "research": "sanda-article.png",
+    "processimg": "sanda-video.png",
+    "final": [
+      "sanda-video.png",
+      "sanda-article.png"
+    ],
+    "features": [
+      [
+        "QR entry",
+        "The workshop concept begins with a QR-triggered experience."
+      ],
+      [
+        "Short-form learning",
+        "Article and video formats provide different ways to explore."
+      ],
+      [
+        "Clear navigation",
+        "Home, visits, learning, and profile form the navigation."
+      ]
+    ],
+    "figma": "rHsPcIOelKAL6EXuJFbyn9",
+    "deck": "",
+    "team": "",
+    "period": ""
+  },
+  {
+    "id": "kiwi",
+    "title": "KIWI Buzz",
+    "category": "UX/UI · Service access",
+    "summary": "A guided smart-lock app concept for technicians requesting temporary access to residential buildings.",
+    "role": "UX Designer",
+    "context": "Academic project · KIWI",
+    "challenge": "Temporary visitors can face a confusing sequence across email, the app store, and an access app. The project focused on technicians who need clear, time-limited access to specific parts of a building.",
+    "goal": "Make requesting and using temporary building access easier to follow.",
+    "insight": "The project identified platform switching and unclear steps as sources of friction. A guided sequence brings the request, approval status, and door controls into one app after installation.",
+    "process": "The team mapped arrival, QR scan, app installation, information entry, approval, and Bluetooth unlocking, then developed the supporting screens.",
+    "outcome": "The deliverable is a redesigned access journey and interface prototype. Faster completion is an intended benefit, rather than a measured result.",
+    "hero": "kiwi-main.png",
+    "research": "kiwi-research.webp",
+    "processimg": "kiwi-process.webp",
+    "final": [
+      "kiwi-main.png",
+      "kiwi-unlock.png"
+    ],
+    "features": [
+      [
+        "Guided request",
+        "A clear sequence takes users from arrival to an access request."
+      ],
+      [
+        "Visible status",
+        "Waiting and active-key views show the current access state."
+      ],
+      [
+        "Focused unlocking",
+        "A dedicated door screen makes the next action explicit."
+      ]
+    ],
+    "figma": "TC1UunHxg59oIWOQKQQBas",
+    "deck": "kiwi",
+    "team": "4 students",
+    "period": ""
+  },
+  {
+    "id": "scheid",
+    "title": "Scheidmann Alltagsbegleitung",
+    "category": "UX/UI · Brand strategy",
+    "summary": "A reassuring website and communication concept for families arranging everyday support for older relatives.",
+    "role": "UX/UI Designer & Brand Strategist",
+    "context": "Consumer Experience Design · Academic project",
+    "challenge": "Family caregivers often arrive with practical questions while feeling overwhelmed. The project explored clearer messaging, supportive digital tools, and a more understandable path to contacting the service.",
+    "goal": "Help families understand available support and feel more confident taking the next step.",
+    "insight": "The primary persona is an adult making care decisions for an ageing parent. Clear guidance and emotional reassurance shaped the information order and tone.",
+    "process": "Research and a brand script informed the landing page, supported by email and social-media concepts that carry the same communication approach.",
+    "outcome": "The team delivered a communication strategy, landing-page design, and campaign materials. The work shows how consistent language and structure can support a sensitive customer journey.",
+    "hero": "scheid-hero.webp",
+    "research": "scheid-research.webp",
+    "processimg": "scheid-process.webp",
+    "final": [
+      "scheid-hero.webp",
+      "scheid-email.webp"
+    ],
+    "features": [
+      [
+        "Understand the support",
+        "Service information is grouped around everyday needs."
+      ],
+      [
+        "Know the next step",
+        "A three-step explanation introduces the support process."
+      ],
+      [
+        "Consistent communication",
+        "Email and campaign materials extend the website’s tone."
+      ]
+    ],
+    "figma": "COghROSgZp8lKLj8GGVoKo",
+    "deck": "scheid",
+    "team": "3 students",
+    "period": "January 2026"
+  },
+  {
+    "id": "atmos",
+    "title": "atmosfair",
+    "category": "UX/UI · Climate communication",
+    "summary": "A website redesign and carbon-calculator integration proposal for a clearer climate-action journey.",
+    "role": "UX Designer & Researcher",
+    "context": "Academic project · atmosfair",
+    "challenge": "The project explored how to organize climate information and connect it with practical actions. Alongside the website redesign, the work proposed bringing a CO₂ calculator into the flight-booking journey.",
+    "goal": "Make climate projects easier to explore and the route to calculating emissions easier to understand.",
+    "insight": "The designs connect explanatory content, project stories, and offset actions. Their hierarchy gives these different needs distinct places within the website.",
+    "process": "The Figma file documents an initial wireframe, successive page designs, news layouts, and a multi-step offset flow.",
+    "outcome": "The deliverables include website designs and an integration proposal. The integration remains a proposal for how emissions information could fit into a travel journey.",
+    "hero": "atmos-hero.webp",
+    "research": "atmos-news.webp",
+    "processimg": "atmos-news.webp",
+    "final": [
+      "atmos-hero.webp",
+      "atmos-news.webp"
+    ],
+    "features": [
+      [
+        "Project stories",
+        "Visual cards make the climate initiatives easier to scan."
+      ],
+      [
+        "Offset journey",
+        "Dedicated screens explore the calculation and offset flow."
+      ],
+      [
+        "Information hierarchy",
+        "Navigation distinguishes actions, projects, and background information."
+      ]
+    ],
+    "figma": "nP8D66Ik6f3c0P6iepsDab",
+    "deck": "",
+    "team": "",
+    "period": ""
+  },
+  {
+    "id": "audio",
+    "title": "Willst du mit mir geh’n?",
+    "category": "UI design · WordPress",
+    "summary": "An audiowalk website that guides people from discovering a Berlin story to listening along the route.",
+    "role": "UI Designer & WordPress Developer",
+    "context": "Creative Strategies & Digital Storytelling",
+    "challenge": "The existing experience did not make the purpose or route to the audio clear enough. The challenge was to combine practical guidance with the atmosphere of a self-paced story, within WordPress constraints.",
+    "goal": "Help visitors understand the audiowalk, choose a story, and start listening with confidence.",
+    "insight": "An external-user walkthrough and a real walking route informed the research. The journey highlighted unclear context on arrival and difficulty locating the audio content.",
+    "process": "The concept shifted from group interaction toward solo listening. Storyboarding, wireframes, a revised logo, and a blue-and-red visual direction supported that change.",
+    "outcome": "The project includes a WordPress landing page and desktop/mobile design work. It brings practical route details and storytelling into a clearer sequence, with refinements informed by feedback.",
+    "hero": "audio-hero.webp",
+    "research": "audio-research.webp",
+    "processimg": "audio-process.webp",
+    "final": [
+      "audio-hero.webp",
+      "audio-episode.webp"
+    ],
+    "features": [
+      [
+        "Discover a story",
+        "Episode previews introduce the experience before listening."
+      ],
+      [
+        "Follow the route",
+        "Stops and time markers support navigation along the walk."
+      ],
+      [
+        "Listen at your pace",
+        "The visual direction supports calm, individual exploration."
+      ]
+    ],
+    "figma": "whuDfnPZhTpCPHjvSLCqMD",
+    "deck": "audio",
+    "team": "",
+    "period": "Summer semester 2025"
+  },
+  {
+    "id": "golem",
+    "title": "Golem.de",
+    "category": "UX strategy · Content design",
+    "summary": "A strategy deck proposing clearer reading journeys and social content for younger tech audiences.",
+    "role": "UX Designer & Content Strategist",
+    "context": "Academic collaboration · Golem.de",
+    "challenge": "The deck identifies dense navigation, heavy advertising, and limited audience diversity as growth challenges. The proposal connects a clearer website experience with content that meets younger readers on social platforms.",
+    "goal": "Create a more approachable route from discovering a tech story to becoming a returning reader.",
+    "insight": "The proposed junior-designer persona values concise, visual learning and career relevance. This shaped a direction built around short explainers, career content, and podcast excerpts.",
+    "process": "Audience analysis led to content pillars, example posts, and a weekly publishing plan, alongside recommendations for navigation and advertising.",
+    "outcome": "The final deck provides actionable UX and content recommendations. Its follower, traffic, and engagement percentages are proposed targets, not achieved results.",
+    "hero": "golem-hero.webp",
+    "research": "golem-research.webp",
+    "processimg": "golem-process.webp",
+    "final": [
+      "golem-final.webp",
+      "golem-process.webp"
+    ],
+    "features": [
+      [
+        "Visual explainers",
+        "Short formats introduce technical topics."
+      ],
+      [
+        "Career relevance",
+        "Content themes address early-career readers."
+      ],
+      [
+        "A repeatable plan",
+        "A weekly schedule connects content ideas with delivery."
+      ]
+    ],
+    "figma": "",
+    "deck": "golem",
+    "team": "",
+    "period": ""
+  },
+  {
+    "id": "centaur",
+    "title": "Centaur Leather",
+    "category": "Product design · Material exploration",
+    "summary": "Product-development work balancing the brand’s leather aesthetic with everyday use and manufacturing constraints.",
+    "role": "Project Manager & Product Designer",
+    "context": "Academic collaboration · Centaur Leather",
+    "challenge": "New products needed to complement an existing collection while remaining practical to manufacture. The team compared everyday objects through brand fit, material requirements, production complexity, and market appeal.",
+    "goal": "Develop useful leather-product concepts suited to the brand and its available production methods.",
+    "insight": "The documented heat tests showed that leather finishes reacted differently. That made material suitability a design decision, rather than a purely visual choice.",
+    "process": "The group explored cases, coasters, a pouf, a key holder, and desk accessories. Sketches, material testing, product descriptions, and feasibility comparisons informed the direction.",
+    "outcome": "The project developed two products from concept to prototype, supported by an ideas deck and final sketches. It connects product choices with material performance and production feasibility.",
+    "hero": "centaur-final.webp",
+    "research": "centaur-hero.webp",
+    "processimg": "centaur-final.webp",
+    "final": [
+      "centaur-final.webp"
+    ],
+    "features": [
+      [
+        "Material suitability",
+        "Heat testing informed consideration of different leather finishes."
+      ],
+      [
+        "Production fit",
+        "The team considered existing machinery and material needs."
+      ],
+      [
+        "Everyday use",
+        "The concepts focus on practical objects and organization."
+      ]
+    ],
+    "figma": "",
+    "deck": "centaur",
+    "team": "5 students",
+    "period": "2025"
+  },
+  {
+    "id": "bloome",
+    "title": "Bloomé · Pink Trace",
+    "category": "Packaging · Visual identity",
+    "summary": "A floral perfume-packaging exploration combining a printed identity with a physical opening experience.",
+    "role": "Packaging design",
+    "context": "University project",
+    "challenge": "This project explores how a perfume package can express a floral identity through both graphics and structure. The work includes label artwork, a package layout, and physical experiments.",
+    "goal": "Create a recognizable floral presentation for the Pink Trace perfume concept.",
+    "insight": "The photographs show the flower motif extending into the package’s opening. The structure becomes part of the way the product is revealed.",
+    "process": "Flat layouts and paper construction experiments led to a folded package and a flower-based product presentation.",
+    "outcome": "The project brings together label design and physical packaging prototypes. The visual sequence shows the exploration from layout to assembled form.",
+    "hero": "bloome-hero.webp",
+    "research": "bloome-open.webp",
+    "processimg": "bloome-process.webp",
+    "final": [
+      "bloome-hero.webp",
+      "bloome-open.webp",
+      "bloome-label.webp"
+    ],
+    "features": [
+      [
+        "Floral identity",
+        "The flower motif connects the product and package."
+      ],
+      [
+        "Opening experience",
+        "Folded paper adds a physical moment of discovery."
+      ],
+      [
+        "Printed details",
+        "The label extends the identity to the bottle."
+      ]
+    ],
+    "figma": "",
+    "deck": "",
+    "team": "",
+    "period": ""
+  },
+  {
+    "id": "serenity",
+    "title": "Serenity in Simplicity",
+    "category": "Expanded reality · Unity",
+    "summary": "A cinematic environment exploring a transition from the everyday into a calm, imagined world.",
+    "role": "Environment design & 3D motion",
+    "context": "Expanded Reality module",
+    "challenge": "The project asks how a digital environment can evoke serenity and wonder. It uses doors as symbolic portals into a dreamlike landscape of forests, water, and fantasy architecture.",
+    "goal": "Create an atmospheric journey that invites slow exploration.",
+    "insight": "The concept connects natural elements with fantasy through a consistent emotional direction: softness, calm, and curiosity.",
+    "process": "The process moves from moodboard and terrain shaping to trees, water, environmental details, and a cinematic sequence.",
+    "outcome": "The delivered work includes a Unity scene, a video, and a process presentation. It explores how environment, camera movement, and visual atmosphere can shape an experience.",
+    "hero": "serenity-hero.webp",
+    "research": "serenity-mood.webp",
+    "processimg": "serenity-process.webp",
+    "final": [
+      "serenity-hero.webp",
+      "serenity-final.webp"
+    ],
+    "features": [
+      [
+        "A sense of transition",
+        "Portals structure the journey into the imagined space."
+      ],
+      [
+        "Natural atmosphere",
+        "Forest and water elements establish the setting."
+      ],
+      [
+        "Cinematic exploration",
+        "The sequence guides attention through the environment."
+      ]
+    ],
+    "figma": "",
+    "deck": "serenity",
+    "team": "",
+    "period": "February 2026"
+  }
+]
